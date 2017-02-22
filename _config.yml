@@ -3,7 +3,7 @@ title: What Works
 subtitle: Weaving Mentoring into Teaching, Research, and Service
 email: whatworks@knowinnovation.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/what-works" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://knowinnovation.github.io/" # the base hostname & protocol for your site
 author: Knowinnovation
 
