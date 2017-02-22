@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to What Works'
+landing-title: 'Welcome to What Worrrrks'
 description: null
 image: null
 author: null
