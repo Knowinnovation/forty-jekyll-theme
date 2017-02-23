@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Stories
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Tales from the Front Line
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
