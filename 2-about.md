@@ -2,7 +2,6 @@
 layout: page
 title: About
 description: What is <i>What Works</i>?
-menu-order: b
 ---
 <!-- Main -->
 <div id="main" class="alt">
