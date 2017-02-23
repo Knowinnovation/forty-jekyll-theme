@@ -10,7 +10,7 @@ author: Knowinnovation
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # Social settings
 website_url: http://www.knowinnovation.com
