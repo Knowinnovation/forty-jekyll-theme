@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: About
+description: What is <i>What Works</i>?
 ---
 
 <!-- Main -->
