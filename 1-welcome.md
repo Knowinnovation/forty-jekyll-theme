@@ -2,7 +2,7 @@
 layout: page
 title: Welcome
 description: Welcome to the <i>What Works</i> movement
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 menu-order: a
 ---
