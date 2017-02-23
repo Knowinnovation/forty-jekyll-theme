@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: What is <i>What Works</i>?
+title: Welcome
+description: Welcome to the <i>What Works</i> movement
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
