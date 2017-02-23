@@ -2,9 +2,8 @@
 layout: page
 title: SACNAS 2015
 description: The first <i>What Works</i> workshop
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
-menu-order: e
 ---
 <!-- Main -->
 <div id="main" class="alt">
