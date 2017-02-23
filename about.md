@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Generic
-description: Lorem ipsum dolor est
+layout: page
+title: About
+description: What is <i>What Works</i>?
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
