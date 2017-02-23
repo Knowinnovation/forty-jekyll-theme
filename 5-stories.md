@@ -2,9 +2,8 @@
 title: Stories
 layout: landing
 description: Tales from the Front Line
-image: assets/images/pic07.jpg
+image: 
 nav-menu: true
-menu-order: c
 ---
 <!-- Main -->
 <div id="main" class="alt">
