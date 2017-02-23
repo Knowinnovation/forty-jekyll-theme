@@ -4,6 +4,7 @@ title: SACNAS 2015
 description: The first <i>What Works</i> workshop
 image: assets/images/pic11.jpg
 nav-menu: true
+menu-order: e
 ---
 <!-- Main -->
 <div id="main" class="alt">
