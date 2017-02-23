@@ -4,6 +4,7 @@ title: Welcome
 description: Welcome to the <i>What Works</i> movement
 image: assets/images/pic11.jpg
 nav-menu: true
+menu-order: 1
 ---
 <!-- Main -->
 <div id="main" class="alt">
