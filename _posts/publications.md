@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ipsum
-description: Nisl sed aliquam
+title: Publications
+description: Publications for download
 image: assets/images/pic04.jpg
 ---
 <p>Download the following documents free of charge:
