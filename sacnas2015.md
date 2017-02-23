@@ -5,6 +5,17 @@ description: The first <i>What Works</i> workshop
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Elements</h1>
+		</header>
+
+<!-- Content -->
 <p><div style="text-align: center; font-size: 1.5em;">A SACNAS pre-conference 1-day workshop on October 28th 2015</div>
 <p>
 <h4>Background story</h4>
