@@ -2,9 +2,8 @@
 layout: page
 title: Publications
 description: Download <i>What Works</i> and related content
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
-menu-order: d
 ---
 <!-- Main -->
 <div id="main" class="alt">
