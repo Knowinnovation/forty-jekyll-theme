@@ -16,6 +16,6 @@ nav-menu: true
 		</header>
 		
 <p>Download the following documents free of charge:
-<ul><li><i><a href="/What%20Works.pdf">What Works: Weaving Mentoring into Teaching, Research, and Service</a></i></li>
-	<li><a href="/What%20Works%20Workshop%20slides.pdf">SACNAS Broadening Participation Workshop - Mentoring slides</a></li>
-	<li><a href="/SACNAS%20Breakout%20Session%20slides.pdf">SACNAS: Mentoring: Exploring What Works among Underrepresented Students</a></li>
+<ul><li><i><a href="/what-works/What%20Works.pdf">What Works: Weaving Mentoring into Teaching, Research, and Service</a></i></li>
+	<li><a href="/what-works/What%20Works%20Workshop%20slides.pdf">SACNAS Broadening Participation Workshop - Mentoring slides</a></li>
+	<li><a href="/what-works/SACNAS%20Breakout%20Session%20slides.pdf">SACNAS: Mentoring: Exploring What Works among Underrepresented Students</a></li>
