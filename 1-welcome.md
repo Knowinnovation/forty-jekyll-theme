@@ -15,4 +15,4 @@ nav-menu: true
 			<h1>Welcome</h1>
 		</header>
     
-<iframe allowfullscreen="" frameborder="0" height="562" mozallowfullscreen="" src="https://player.vimeo.com/video/140095311" webkitallowfullscreen="" width="1000"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="80%" mozallowfullscreen="" src="https://player.vimeo.com/video/140095311" webkitallowfullscreen="" width="100%"></iframe>
