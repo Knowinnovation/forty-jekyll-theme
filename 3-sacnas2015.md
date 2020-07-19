@@ -1,10 +1,11 @@
 ---
-layout: page
 title: SACNAS 2015
+layout: page
 description: The first <i>What Works</i> workshop
 image: 
 nav-menu: true
 ---
+
 <!-- Main -->
 <div id="main" class="alt">
 

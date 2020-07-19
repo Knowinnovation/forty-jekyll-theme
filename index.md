@@ -1,8 +1,9 @@
 ---
-layout: home
 title: Home
-landing-title: 'Welcome to What Works'
-description: null
-image: null
-author: null
+layout: home
+landing-title: Welcome to What Works
+description: 
+image: 
+author: 
 ---
+

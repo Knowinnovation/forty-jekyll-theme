@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Publications
+layout: page
 description: Download <i>What Works</i> and related content
 image: 
 nav-menu: true
 ---
+
 <!-- Main -->
 <div id="main" class="alt">
 

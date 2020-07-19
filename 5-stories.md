@@ -5,6 +5,7 @@ description: Tales from the Front Line
 image: 
 nav-menu: true
 ---
+
 <!-- Main -->
 <div id="main" class="alt">
 

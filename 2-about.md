@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About
+layout: page
 description: What is <i>What Works</i>?
 ---
+
 <!-- Main -->
 <div id="main" class="alt">
 

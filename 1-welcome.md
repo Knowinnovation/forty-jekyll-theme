@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Welcome
+layout: page
 description: Welcome to the <i>What Works</i> movement
 image: 
 nav-menu: true
 ---
+
 <!-- Main -->
 <div id="main" class="alt">
 
